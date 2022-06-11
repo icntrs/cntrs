@@ -3,7 +3,7 @@
 - 🎶 I love electronic music trance dubstep deephouse...
 - 🌱 I’m currently learning ...Docker, Kubernetes, Terraform, Kibana, Grafana, Redis, Confluence, DynamoDB
 - 💞️ I’m looking to collaborate on ...projects and jobs that use containers and clouds 
-- 📫 How to reach me ...angelcadyl@hotmail.com
+- 📫 How to reach me ...here
 
 <!---
 iCntrs/iCntrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
